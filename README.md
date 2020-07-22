@@ -1,2 +1,2 @@
-# DeepPavlov-NLP
-this is text question answering with python. Based on DeepPavlov Open source library
+# Real-Time Text Based Question Answering
+Based on DeepPavlov open source library
